@@ -66,4 +66,64 @@ Currently honing my **backend development skills using Java** while interning at
 
 > **"Code, Create, Innovate."**  
 > Striving to turn ideas into reality through code. 🌟
+
+
+
+
+
+
+# 👋 Hi, I'm Amir Ali  
+
+🚀 **Aspiring Software Developer** | **Backend & Full-Stack Development**  
+🔹 Passionate about **Java, Spring Boot, and Microservices**  
+🔹 Currently integrating **Spring Boot backend with a React.js frontend**  
+
+---
+
+## 🛠 Tech Stack  
+
+### **Languages**  
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
+
+### **Backend**  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)  
+![Microservices](https://img.shields.io/badge/Microservices-0A66C2?style=flat&logo=microservices&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+
+### **Frontend**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
+
+### **Tools & DevOps**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)  
+
+---
+
+## 📌 Current Projects  
+🔹 **Microservices-based E-commerce Backend**  
+- API Gateway & authentication with **Spring Boot**  
+- Handling **Users, Orders, Products, and Cart Services**  
+- Integrating **React.js frontend with Redux**  
+
+🔹 **Tailor Dashboard Admin Panel**  
+- Built with **Next.js + TypeScript + Redux**  
+
+---
+
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amir-ali-v-9ab1912aa/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/aamiir.v/?igsh=a21rbzNicmt6MDNk&utm_source=qr#)  
+
+---
+
+🔹 **"Building efficient and scalable applications, one step at a time."** 🚀
+
  
