@@ -87,12 +87,4 @@ Currently honing my **backend development skills using Java** while interning at
 
 
 
-## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amir-ali-v-9ab1912aa/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/aamiir.v/?igsh=a21rbzNicmt6MDNk&utm_source=qr#)  
-
----
-
-🔹 **"Building efficient and scalable applications, one step at a time."** 🚀
-
  
