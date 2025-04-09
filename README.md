@@ -69,6 +69,24 @@ Currently honing my **backend development skills using Java** while interning at
 </p>
 ---
 
+## 📊 GitHub Analytics
+
+### 🧿 My GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_title=false&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" width="60%" />
+</p>
+
+### 🌐 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%" />
+</p>
+
+### 👁️ Visitor's count
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=brightgreen" alt="visitor badge"/>
+</p>
+
+
 ## 🌐 Let's Connect  
 <p>
   <a href="https://www.linkedin.com/in/amir-ali-v-9ab1912aa/" target="_blank">
