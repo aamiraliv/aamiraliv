@@ -70,21 +70,9 @@ Currently honing my **backend development skills using Java** while interning at
 ---
 
 ## 📊 GitHub Analytics
-
-### 🧿 My GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aamiraliv&show_icons=true&theme=tokyonight&hide_title=false&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" width="40%" />
-</p>
-
-### 🌐 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamiraliv&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%" />
-</p>
-
-### 👁️ Visitor's count
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aamiraliv&style=flat-square&color=brightgreen" alt="visitor badge"/>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=aamiraliv&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=aamiraliv&theme=aura_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aamiraliv&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ## 🌐 Let's Connect  
