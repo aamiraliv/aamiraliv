@@ -84,7 +84,106 @@ Currently honing my **backend development skills using Java** while interning at
 > **"Code, Create, Innovate."**  
 > Striving to turn ideas into reality through code. 🌟
 
+# My GitHub Profile
 
+## My GitHub Statistics
+<div class="stats-card">
+    <h2>My GitHub Statistics</h2>
+    <ul>
+        <li><span class="icon">⭐</span> Total Stars: 822</li>
+        <li><span class="icon">⏳</span> Total Commits: 745</li>
+        <li><span class="icon">➕</span> Total PRs: 32</li>
+        <li><span class="icon">❗</span> Total Issues: 4</li>
+        <li><span class="icon">🌐</span> Contributed to: 11</li>
+    </ul>
+    <div class="grade">A+</div>
+</div>
+
+## Most Used Languages
+<div class="languages-card">
+    <h2>Most Used Languages</h2>
+    <div class="language-bar">
+        <div class="bar java" data-percentage="99.91"></div>
+        <span class="label">Java 99.91%</span>
+    </div>
+    <div class="language-bar">
+        <div class="bar docker" data-percentage="0.09"></div>
+        <span class="label">Dockerfile 0.09%</span>
+    </div>
+</div>
+
+<style>
+    .stats-card, .languages-card {
+        background-color: #162447;
+        padding: 20px;
+        border-radius: 10px;
+        margin: 20px 0;
+        width: 300px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+        color: #fff;
+    }
+    h2 {
+        color: #00d4ff;
+        margin-bottom: 15px;
+    }
+    ul {
+        list-style: none;
+        padding: 0;
+    }
+    li {
+        margin: 10px 0;
+        display: flex;
+        align-items: center;
+    }
+    .icon {
+        margin-right: 10px;
+        color: #00ff95;
+    }
+    .grade {
+        font-size: 2em;
+        color: #00d4ff;
+        margin-top: 20px;
+    }
+    .language-bar {
+        margin: 10px 0;
+    }
+    .bar {
+        height: 20px;
+        border-radius: 10px;
+        background-color: #555;
+        animation: grow 2s forwards;
+        width: 0;
+    }
+    .java {
+        background-color: #d4a017;
+    }
+    .docker {
+        background-color: #666;
+    }
+    .label {
+        margin-top: 5px;
+        display: block;
+        color: #ccc;
+    }
+    @keyframes grow {
+        from {
+            width: 0;
+        }
+        to {
+            width: var(--percentage);
+        }
+    }
+</style>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        const bars = document.querySelectorAll(".bar");
+        bars.forEach(bar => {
+            const percentage = bar.getAttribute("data-percentage");
+            bar.style.setProperty("--percentage", `${percentage}%`);
+        });
+    });
+</script>
 
 
  
