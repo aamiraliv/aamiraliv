@@ -88,7 +88,7 @@ Currently honing my **backend development skills using Java** while interning at
 
 ---
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=pb597nb8xfl6aya91p8baye4p&count={3})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=pb597nb8xfl6aya91p8baye4p)
 
 > **"Code, Create, Innovate."**  
 > Striving to turn ideas into reality through code. 🌟
