@@ -11,19 +11,19 @@ Currently honing my **backend development skills using Java** while interning at
 
 Aspiring Full-Stack Developer dedicated to building intuitive, high-performance applications.
 
-# Frontend Mastery
+#### Frontend Mastery
 ↠ Developing sleek, responsive interfaces using React.js, Next.js, and TypeScript.
 ↠ Streamlining state management with Redux for efficient, scalable frontends.
 
-# Backend Proficiency
+#### Backend Proficiency
 ↠ Creating robust, scalable APIs with Spring Boot and Microservices architecture.
 ↠ Ensuring secure, modular systems through API Gateway integration.
 
-# Full-Stack Synergy
+#### Full-Stack Synergy
 ↠ Unifying frontend and backend for seamless, end-to-end solutions.
 ↠ Leveraging modern tools to optimize performance and user experience.
 
-# Lifelong Learner
+#### Lifelong Learner
 ↠ Exploring cutting-edge technologies to stay ahead in the tech landscape.
 ↠ Committed to clean code, best practices, and impactful solutions.
 
