@@ -7,25 +7,25 @@ Currently honing my **backend development skills using Java** while interning at
 
 ---
 
-## 💡 About Me
-- 🎨 **Frontend expertise** with experience in:
-  - 🛒 **E-commerce website** using **React.js** & **Redux**.
-  - 🧵 **Dashboard for a tailoring and rental web application** using **Next.js**.
-- 🔧 **Backend Development**: Building robust APIs with **Spring Boot** & **Microservices**.
-- 🛠️ **Full-Stack Development Enthusiast**: Merging frontend & backend seamlessly.
-- 🌱 Constantly learning and exploring new technologies.
+## ⇄ About Me
 
----
+Aspiring Full-Stack Developer dedicated to building intuitive, high-performance applications.
 
-## 🚀 Current Projects
-- **Microservices-based E-commerce Backend**  
-  - Implementing **Spring Boot Microservices** with **API Gateway**.  
-  - Services: **Authentication**, **Product Management**, **Order Processing**.  
-  - Integrating with **React.js frontend** using **Redux for state management**.  
+# Frontend Mastery
+↠ Developing sleek, responsive interfaces using React.js, Next.js, and TypeScript.
+↠ Streamlining state management with Redux for efficient, scalable frontends.
 
-- **Tailor Dashboard Admin Panel**  
-  - Building the **admin side** for a tailoring & rental service.  
-  - Using **Next.js**, **TypeScript**, and **Redux** for state management.  
+# Backend Proficiency
+↠ Creating robust, scalable APIs with Spring Boot and Microservices architecture.
+↠ Ensuring secure, modular systems through API Gateway integration.
+
+# Full-Stack Synergy
+↠ Unifying frontend and backend for seamless, end-to-end solutions.
+↠ Leveraging modern tools to optimize performance and user experience.
+
+# Lifelong Learner
+↠ Exploring cutting-edge technologies to stay ahead in the tech landscape.
+↠ Committed to clean code, best practices, and impactful solutions.
 
 ---
 
