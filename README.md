@@ -94,5 +94,10 @@ Currently honing my **backend development skills using Java** while interning at
 > Striving to turn ideas into reality through code. 🌟
 
 
+<img src="https://raw.githubusercontent.com/aamiraliv/aamiraliv/output/snake.svg" alt="Snake animation" />
+
+
+
+
 
  
