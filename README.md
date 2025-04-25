@@ -3,7 +3,7 @@
 ---
 
 🚀 Aspiring **Software Developer** with a strong passion for creating elegant and efficient web solutions.  
-Currently honing my **backend development skills using Java** while interning at.
+Currently honing my **backend development skills using Java** while interning at  **BridgeOn**.
 
 ---
 
