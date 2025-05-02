@@ -88,7 +88,7 @@ Aspiring Full-Stack Developer dedicated to building intuitive, high-performance 
 
 ---
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=pb597nb8xfl6aya91p8baye4p&width=1000&count=3)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=pb597nb8xfl6aya91p8baye4p&width=1000&count=5)
 
 > **"Code, Create, Innovate."**  
 > Striving to turn ideas into reality through code. 🌟
